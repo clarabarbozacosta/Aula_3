@@ -12,3 +12,5 @@ commit 2 bugfix
 commit 1 feat-novo
 
 commit 2 feat-novo
+
+commit 2 bugfix
